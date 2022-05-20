@@ -1,0 +1,13 @@
+body {
+  --cor_clara: #e5007b;
+  --cor_escura: #19272e;
+
+  --cor_borda_imagem: white;
+  --cor_letra_nome: white;
+  --cor_letra_cargo: white;
+
+  --cor_letra_descricao: white;
+
+  --cor_titulo_curiosidade: white;
+  --cor_lista_curiosidade: white;
+}
